@@ -1,3 +1,4 @@
+<?php include 'menu.php'; ?>
 <h1>Testataan post-metodia</h1>
 <form method="post" action="post.php">
 <label>Etunimi	</label>
@@ -16,3 +17,4 @@ if(isset($_POST['nappi'])){
 	echo "terve $enimi $snimi";
 }
 ?>
+<?php include 'footer.php'; ?>

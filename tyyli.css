@@ -1,0 +1,24 @@
+label {
+
+	color: blue;
+}
+#menu {
+	float: left;
+	width: 155px;
+	background-color:  cyan; 
+
+}
+#menu ul {
+list-style: none;
+
+}
+#menu ul a:hover{
+background-color: pink;
+
+}
+
+#sisalto {
+	margin-left: 170px;
+
+
+}
