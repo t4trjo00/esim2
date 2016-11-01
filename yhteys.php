@@ -7,7 +7,7 @@ try {
 } 
 catch (Exception $e) {
 	echo "Tietokantaan ei saada yhteyttä, ota yhteys ylläpitoon";
-	
+	echo "voi himskatti ku ei toiminukkaan tämä";
 }
 
 

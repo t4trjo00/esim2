@@ -4,21 +4,21 @@ label {
 }
 #menu {
 	float: left;
-	width: 155px;
+	width: 15px;
 	background-color:  cyan; 
 
 }
 #menu ul {
-list-style: none;
+	list-style: none;
 
 }
 #menu ul a:hover{
-background-color: pink;
+	background-color: pink;
 
 }
 
 #sisalto {
-	margin-left: 170px;
+	margin-left: 10px;
 
 
 }
